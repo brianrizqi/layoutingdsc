@@ -58,6 +58,7 @@ public class Login extends AppCompatActivity {
                     if(user.getUsername().equals(username) && user.getPassword().equals(password)){
                         // Masuk ke Dashboard
                         Toast.makeText(Login.this, "Halo Bro", Toast.LENGTH_SHORT).show();
+                        status = true;
                     }
                 }
                 // Cek jika tidak ditemukan
