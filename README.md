@@ -1,3 +1,3 @@
-# layoutingdsc
+# LayoutingDSC
 
 ### Developer Student Club
